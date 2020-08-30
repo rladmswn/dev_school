@@ -7,7 +7,7 @@ router.get('/', function(req, res, next) {
 });
 
 router.get('/K', function(req, res, next) {
-  res.send('KKK');
+  res.send('KdfsKK');
 });
 
 router.get('/E', function(req, res, next) {

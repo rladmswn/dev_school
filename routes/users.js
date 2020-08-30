@@ -11,7 +11,7 @@ router.get('/K', function(req, res, next) {
 });
 
 router.get('/E', function(req, res, next) {
-  res.json({ name : 'eunju', dsfsdfas : 12312 });
+  res.json({ name : 'eunju', dsfsdfas : '1efnjakf12' });
 });
 
 module.exports = router;
